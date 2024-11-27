@@ -1,7 +1,7 @@
-import noInlineBlock from './rules/no-inline-block';
+import noInlineBlock from "./rules/no-inline-block";
 
 const rules = {
-    'no-inline-block': noInlineBlock,
+  "no-inline-block": noInlineBlock,
 };
 
-export = { rules };
+export default { rules };
